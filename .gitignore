@@ -4,8 +4,6 @@
 /data/raw
 
 # Provisional para workshop 
-R/*.qmd
-R/scripts/*.R
 R/sessions/*.txt
 
 # History files
