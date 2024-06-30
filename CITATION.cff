@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "My Research Software"
+title: "Plantilla MK Lab"
 authors:
-  - family-names: Druskat
-    given-names: Stephan
-    orcid: https://orcid.org/1234-5678-9101-1121
+  - family-names: Mancilla Galindo
+    given-names: Javier
+    orcid: https://orcid.org/0000-0002-0718-467X
 version: 2.0.4
-date-released: 2021-08-11
-doi: 10.5281/zenodo.1234
+date-released: 2024-06-30
+doi: pending
 license: Apache-2.0
-repository-code: "https://github.com/citation-file-format/my-research-software"
+repository-code: "https://github.com/javimangal/mklab-plantilla"
